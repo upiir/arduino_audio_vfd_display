@@ -3,9 +3,12 @@
 
 **YouTube video: XXX**
 
+![THUMB_arduino_audio_vfd_display_B](https://github.com/user-attachments/assets/81e88156-565c-4d47-b863-92094268c33b)
 
 
-Small Animations:
+Small Animation:
+
+![arduino_audio_vfd_display](https://github.com/user-attachments/assets/8e78507d-9a50-447e-b10f-028e8d7c7591)
 
 
 Screenshots from the video:
