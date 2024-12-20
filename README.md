@@ -1,7 +1,24 @@
 # Audio VFD Display Module with Arduino UNO
 
 
-**YouTube video: XXX**
+**YouTube video: https://youtu.be/out82m-JxXU**
+
+Links from the video:
+- Do you like this video? You can buy me a coffee ☕: https://www.buymeacoffee.com/upir
+- Used VFD display module: https://s.click.aliexpress.com/e/_oBOxJH1
+- VFD Clock: https://s.click.aliexpress.com/e/_olAEiG3
+- Arduino UNO: https://s.click.aliexpress.com/e/_AXDw1h
+- Arduino breadboard prototyping shield: https://s.click.aliexpress.com/e/_ApbCwx
+- Jumper Wires: https://s.click.aliexpress.com/e/_DF9YbSV
+- Transparent VFD Clock: https://s.click.aliexpress.com/e/_DcGebkt
+
+
+Related videos:
+- VFD clock and character display: https://youtu.be/g7SOxzKatCc
+- 3D on the VFD character display: https://youtu.be/IvMauAxWPkQ
+- Graphical VFD Display gauges: https://youtu.be/Frq_JP1lalE
+
+
 
 ![THUMB_arduino_audio_vfd_display_B](https://github.com/user-attachments/assets/81e88156-565c-4d47-b863-92094268c33b)
 
