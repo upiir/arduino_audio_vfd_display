@@ -1,4 +1,4 @@
-# Audio VFD Display Module with Arduino UNO
+# Audio VFD Display Module with Arduino UNO (7-BT-317NK Module FUTABA)
 
 
 **YouTube video: https://youtu.be/out82m-JxXU**
